@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$/../Leet-Code-Top-Interview-Questions">
       <excludeFolder url="file://$MODULE_DIR$/../Leet-Code-Top-Interview-Questions/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (PythonProject4)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.14 virtualenv at ~/PycharmProjects/Leet-Code-Top-Interview-Questions/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
